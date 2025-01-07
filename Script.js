@@ -11,5 +11,5 @@ const noButton = document.getElementById('no');
         });
 
         yesButton.addEventListener('click', () => {
-            alert('Ótimo! Me mande uma mensagem: (XX) XXXXX-XXXX');
+            alert('Ótimoooooo! Me mande uma mensagem: (11) 97253-7374');
         });
